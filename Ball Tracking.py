@@ -1,5 +1,3 @@
-# QUESTION 1 : PART 1 ----------------------------------------------------------------------------------------
-
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -82,7 +80,6 @@ plt.ylabel("Y values")
 plt.title("Coordinate plot")
 plt.show()
 
-# QUESTION 1 : PART 2  ----------------------------------------------------------------------------------------
 
 # Masking the nan values from the numpy array of center coordinates
 mask3 = np.isnan(x2)
@@ -109,7 +106,6 @@ plt.plot(x3, y3, label='best fit')
 plt.legend()
 plt.show()
 
-# QUESTION 1 : PART 3 ----------------------------------------------------------------------------------------
 
 land_x = 0
 land_y = y[0] + 300
