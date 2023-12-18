@@ -16,5 +16,6 @@ In the video, a red ball is thrown against a wall. Assuming that the trajectory 
 4. math
 5. os
 
+Video link: https://drive.google.com/file/d/1ZBkUVP5YmnynI64QhPaD65v8bGwnKKto/view?usp=drive_link
 
 
